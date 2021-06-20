@@ -12,7 +12,8 @@ function Document() {
       </head>
       <body>
         {/* root container */}
-        <Root />
+        <Root>
+          </Root>
         <Script />
       </body>
     </html>
